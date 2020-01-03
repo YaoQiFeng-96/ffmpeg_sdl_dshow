@@ -1,0 +1,4 @@
+﻿  call_usb_camera.cpp
+c:\users\yqf\desktop\ffmpeg\ffmpeg_sdl\call_usb_camera\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\yqf\desktop\ffmpeg\ffmpeg_sdl\call_usb_camera\call_usb_camera.cpp(84): warning C4018: “<”: 有符号/无符号不匹配
+  call_usb_camera.vcxproj -> C:\Users\YQF\Desktop\FFmpeg\ffmpeg_sdl\Debug\call_usb_camera.exe
